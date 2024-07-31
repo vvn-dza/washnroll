@@ -1,0 +1,7 @@
+Add database for cwms
+http://localhost/phpmyadmin/ > create database > add name "cwmsdb" > import > select the cwms database
+
+Admin login for cwms
+user - admin 
+pass - 123
+
